@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Kuba\source\repos\sww\CurrencyExchanger\CurrencyExchanger\wymiana.h(47): warning C4715: '`wymiana::zamiana'::`2'::<lambda_1>::operator()': not all control paths return a value
+  CurrencyExchanger.vcxproj -> C:\Users\Kuba\Source\Repos\sww\CurrencyExchanger\x64\Debug\CurrencyExchanger.exe
